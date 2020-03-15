@@ -11,4 +11,4 @@ You can see the result on this account:
 
 ...or here:
 
-![alt text](https://github.com/TheTerabit/commandExecuter/blob/master/commandLineAppCalendar.png)
+![alt text](https://github.com/TheTerabit/commandExecuter/blob/master/screen.png)
